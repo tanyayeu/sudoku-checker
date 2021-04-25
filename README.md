@@ -1,2 +1,3 @@
-# sudoku-checker
-Python program to check the solution to a sudoku game
+# Sudoku Checker
+
+This program uses python to check the solution to a predefined sudoku board
